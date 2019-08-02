@@ -13,3 +13,9 @@
 
 ### Authors
 - [0m1c20n](https://github.com/0m1c20n)
+
+### Contributing
+Bug reports and pull requests are welcome on GitHub.
+
+### License
+You are free to use this code under the [MIT License](./LICENSE).
